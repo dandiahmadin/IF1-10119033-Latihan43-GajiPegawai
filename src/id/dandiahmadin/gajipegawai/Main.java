@@ -16,7 +16,7 @@ package id.dandiahmadin.gajipegawai;
 public class Main {
     public static void main(String[] args) {
         GajiPegawai pegawai1 = new GajiPegawai();
-        pegawai1.setNama("Rizki Adam Kurniawan");
+        pegawai1.setNama("Dandi Ahmadin");
         pegawai1.setAlamat("Jalan Semar dlm 4 no 72/66");
         pegawai1.setUangTransport(250000);
         pegawai1.setUangTunjangan(300000);
